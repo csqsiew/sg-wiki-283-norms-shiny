@@ -2,7 +2,7 @@
 
 This application is an accompaniment to our research developing lexical-semantic norms for Singapore English. It features the definitions, valence, arousal, concreteness, and humor of 283 common Singlish words and concepts. 
 
-Feel free to pull this repo and run the R Shiny application locally in your computer. Otherwise, you can also view a demo of this application [here](). 
+Feel free to pull this repo and run the R Shiny application locally in your computer. Otherwise, you can also view a demo of this application [here](http://r-server.csqsiew.xyz/sgnorms/). 
 
 More information about the methodology involved in developing the data featured in this application can be found in our [preprint](https://osf.io/bjxfa/), and the raw data can be downloaded in the 'Table' tab or at our [OSF page](https://osf.io/bjxfa/).
 
