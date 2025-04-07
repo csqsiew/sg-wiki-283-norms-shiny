@@ -14,7 +14,7 @@ Alternatively, you can download the repository and run app.R.
 
 ## Dataset 
 
-More information about the methodology involved in developing the data featured in this application can be found in our [preprint](https://osf.io/bjxfa/), and the raw data can be downloaded in the 'Table' tab or at our [OSF page](https://osf.io/bjxfa/).
+More information about the methodology involved in developing the data featured in this application can be found in our [preprint](https://osf.io/89vf7), and the raw data can be downloaded in the 'Table' tab or at our [OSF page](https://osf.io/bjxfa/).
 
 ## Keep in touch
 
@@ -24,6 +24,6 @@ If you would like to receive updates about the project, drop us an email at [sin
 
 #### Acknowledgements
 
-We would like to thank **[X]** for helping us process the definitions featured on this visualization application. 
+We would like to thank Maitrei Chandramitra for helping us develop the definitions featured on this visualization application. 
 
 Our research is funded by the Social Science Research Council of Singapore (MOE 2021-SSHR-003; Project title: "Measuring the Singaporean Mental Lexicon: Lexical-semantic norms for Singapore English words").

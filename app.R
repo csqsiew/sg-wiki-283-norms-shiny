@@ -3,7 +3,7 @@ library(ggplot2)
 library(tidyverse)
 library(markdown)
 
-test_data <- read.csv('data-for-app.csv') |> 
+test_data <- read.csv('data-for-app-add-definitions.csv') |> 
   rename(Valence = mean_valence,
          Arousal = mean_arousal,
          Concreteness = mean_conc,
